@@ -1,4 +1,4 @@
-# Human body normal temperature, Is it 86 F?
+# Human body normal temperature, Is it 98.6 F?
 
 <p>Analyzed a dataset of human body temperatures by employing the concepts of hypothesis testing, 
 confidence intervals, and statistical significance.</p>
